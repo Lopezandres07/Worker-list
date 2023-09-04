@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.inputs {
+  border: .2rem black solid;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin-left: 1rem;
+}
+
+.list {
+  border: .2rem black solid;
+}
+
+.error {
+  border: 1rem solid black;
+}
